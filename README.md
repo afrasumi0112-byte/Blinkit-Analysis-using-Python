@@ -44,5 +44,5 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 -Different python libraries are used to clean and visualize the data according to the KPI's requirements.
 
 ## Data Cleaning and Visualization(Python/Jupyter Notebook)
-- <a href="
+- <a href="https://github.com/afrasumi0112-byte/Blinkit-Analysis-using-Python/blob/main/Blinkit%20Analysis.ipynb">Blinkit Analysis coding</a>
 
