@@ -6,5 +6,5 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## Dataset Used
 
 ## Tools Used
--Python(Pandas,Numpy,Matplotlib,Seaborn)
--Jupyter Notebook
+- Python(Pandas,Numpy,Matplotlib,Seaborn)
+- Jupyter Notebook
