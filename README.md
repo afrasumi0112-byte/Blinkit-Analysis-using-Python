@@ -19,30 +19,53 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 #### 1.Total Sales by Fat Content:
 - Objective: Analyze the impact of fat content on total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-- Chart Type: Donut Chart.
+
 ##### 2.Total Sales by Item Type:
 - Objective: Identify the performance of different item types in terms of total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-- Chart Type: Bar Chart.
+
  ##### 3.Fat Content by Outlet for Total Sales: 
 - Objective: Compare total sales across different outlets segmented by fat conten
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-- Chart Type: Stacked Column Chart.
+
 ##### 4.Total Sales by Outlet Establishment:
 - Objective: Evaluate how the age or type of outlet establishment influences total sales.
-- Chart Type: Line Chart.
+
 ##### 5.Sales by Outlet Size:
 - Objective: Analyze the correlation between outlet size and total sales.
-- Chart Type: Donut/ Pie Chart.
+
 ##### 6.Sales by Outlet Location:
 - Objective: Assess the geographic distribution of sales across different locations.
-- Chart Type: Funnel Map.
+
 
 ## Process
-- The data is cleaned and preprocessed using python libraries.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Different python libraries are used to clean and visualize the data according to the KPI's requirements.
+### 1. Importing Libraries  
+- Used **Pandas, Numpy, Matplotlib, Seaborn** for data manipulation and visualization.  
 
+### 2. Data Import & Exploration  
+- Imported dataset into Jupyter Notebook.  
+- Explored dataset with `.head()`, `.info()`, and `.shape()` to understand structure and size.  
+- Checked data types of each column.  
+
+### 3. Data Cleaning & Tuning  
+- Handled missing values and inconsistent data.  
+- Performed data type conversions where required.  
+- Renamed and reformatted columns for better readability.  
+
+### 4. KPI Calculations  
+- Calculated **Total Sales**.  
+- Calculated **Average Sales**.
+- Calculated **Average Ratings**.  
+- Identified **Number of Items Sold**.  
+
+### 5. Data Visualization  
+- **Pie Chart** → Total Sales by Fat Content  
+- **Bar Chart** → Total Sales by Item Type  
+- **Stacked Chart** → Fat Content by Outlet for Total Sales  
+- **Line Chart** → Total Sales by Outlet Establishment   
+- **Pie Chart** → Sales by Outlet Size  
+- **Bar Chart** → Sales by Outlet Location
+  
 ## Data Cleaning and Visualization(Python/Jupyter Notebook)
 - <a href="https://github.com/afrasumi0112-byte/Blinkit-Analysis-using-Python/blob/main/Blinkit%20Analysis.ipynb">Blinkit Analysis coding</a>
 
