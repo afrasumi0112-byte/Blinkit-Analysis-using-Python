@@ -61,10 +61,10 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ### 5. Data Visualization  
 - **Pie Chart** → Total Sales by Fat Content  
 - **Bar Chart** → Total Sales by Item Type  
-- **Stacked Chart** → Fat Content by Outlet for Total Sales  
+- **Clustered bar Chart** → Fat Content by Outlet for Total Sales  
 - **Line Chart** → Total Sales by Outlet Establishment   
 - **Pie Chart** → Sales by Outlet Size  
-- **Bar Chart** → Sales by Outlet Location
+- **Horizontal Bar Chart** → Sales by Outlet Location
   
 ## Data Cleaning and Visualization(Python/Jupyter Notebook)
 - <a href="https://github.com/afrasumi0112-byte/Blinkit-Analysis-using-Python/blob/main/Blinkit%20Analysis.ipynb">Blinkit Analysis coding</a>
