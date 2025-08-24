@@ -47,9 +47,9 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - <a href="https://github.com/afrasumi0112-byte/Blinkit-Analysis-using-Python/blob/main/Blinkit%20Analysis.ipynb">Blinkit Analysis coding</a>
 
 ## Project Insight
-- Larger outlets in Tier 3 locations are major sales contributors,posibly due to higher customer traffic or larger store sizes.
+- Larger outlets in Tier 3 locations are major sales contributors,possibly due to higher customer traffic or larger store sizes.
 - Brands and store planners should pay more strategic attention to medium-sized outlets,which form the dominant segment.
-- Store age does not linearly impact sales.Newer outlets might not always outperform older ones.Investigating renovation,location, or brand policies across the years cvould explain the variation
+- Store age does not linearly impact sales. Newer outlets might not always outperform older ones. Investigating renovation,location, or brand policies across the years cvould explain the variation
 - In all tiers,Low Fat products consistently outperform Regular ones in total sales aligning with modern consumer preferences for healthier products.
 - Stocking up on high demand categories like Fruits and Vegetables can drive overall outlet sales.
   
