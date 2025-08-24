@@ -39,7 +39,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
  ##### Chart Type: Funnel Map.
 
 ## Process
-- The data is cleaned and preprocessed using python.
+- The data is cleaned and preprocessed using python libraries.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Different python libraries are used to clean and visualize the data according to the KPI's requirements.
 
